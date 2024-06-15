@@ -1,0 +1,59 @@
+.root {
+    -fx-font-family: "Arial";
+}
+
+.table-view {
+    -fx-background-color: #f2f2f2;
+    -fx-border-color: #c2c2c2;
+    -fx-border-radius: 10;
+}
+
+.table-column {
+    -fx-alignment: CENTER;
+}
+
+.bar-chart {
+    -fx-bar-fill: #ff6600;
+}
+
+.chart-title {
+    -fx-text-fill: #333333;
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+}
+
+.root {
+    -fx-font-family: "Arial";
+}
+
+.table-view {
+    -fx-background-color: #f2f2f2;
+    -fx-border-color: #c2c2c2;
+    -fx-border-radius: 10;
+}
+
+.table-column {
+    -fx-alignment: CENTER;
+}
+
+.bar-chart {
+    -fx-bar-fill: #ff6600;
+}
+
+.chart-title {
+    -fx-text-fill: #333333;
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-color: #ff6600;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 10;
+    -fx-border-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #cc5200;
+}
